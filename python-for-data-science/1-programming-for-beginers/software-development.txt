@@ -1,0 +1,13 @@
+Software Development
+- requirement and specification
+- problem analysis
+- system design
+- system development
+- system testing
+- feedback
+
+Basic of problem analysis
+- define a number of input
+- define a number of output
+- define an operation variable
+- design a process

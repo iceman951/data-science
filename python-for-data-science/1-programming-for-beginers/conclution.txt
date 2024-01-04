@@ -1,0 +1,11 @@
+Developer need a problem analysis technique:
+- Algorithm
+- Flowchart
+There are many software editors
+- PyCharm suitable with beginner
+Data scientist could be only data scientist or developer both
+- Python is a powerful tool for data scientist
+
+
+diff of compiler & interpreter
+high level language

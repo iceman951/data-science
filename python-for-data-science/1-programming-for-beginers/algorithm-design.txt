@@ -1,0 +1,5 @@
+Algorithm Design
+- algorithm is used for communicate to digital device
+- digital device is executed follow algorithm
+- not depend on computer language
+- use for communicate to other developer

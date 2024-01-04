@@ -1,0 +1,9 @@
+Diagram
+- Represent an algorithm
+- Communicate to other developers
+- Digest an idea of developer
+- Brainstorm between many developers
+- Not depend on computer languages
+- Easy to illustrate on document
+- Easy for correction
+- Easy to detection

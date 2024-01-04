@@ -1,0 +1,8 @@
+Python
+- Python was developed in 1980 by Guido van Rossum
+- It is a high-level programming language
+- Similar to human language
+- Open-source
+- Object-oriented programming
+- Data scientists transform unstructured data on social networks into structured data of organizations
+- It became a powerful tool for data scientists
