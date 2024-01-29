@@ -1,0 +1,29 @@
+Begin
+    max_score = 0
+    min_score = 101
+    total_score = 0
+    i = 0
+    alert_scores = ""
+
+    while i < 10:
+        score = input "test score no. : "
+
+        if score > 100:
+            alert_scores = alert_scores + " " +  score  
+
+        if score >= max_score:
+            max_score = score
+
+        if score <= min_score:
+            min_score = score
+
+        i += 1
+        total_score += score
+
+    if have alert_scores :
+        print "You input score more than 100 => alert_scores"
+
+    print "Max score"
+    print "Min score"
+    print "Average score"
+End
