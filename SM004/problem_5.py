@@ -6,4 +6,4 @@ if hour > 40:
     hour = 40
 wage = (hour * 30) + (ot_hour * 50)
 print(f"You work {hour} hours and {ot_hour} overtime hours.")
-print(f"Your wage is {wage} Baht.")
+print(f"Your wage is {wage:,.2f} Baht.")
